@@ -10,6 +10,6 @@ console.log(`Greetings from ${name}! (ʘ‿ʘ)`);
 - 🌱 Flutter/Dart, Akka (Scala/Java), Python/Django, PHP, Go (GoLang).
 - 👯 Blockchain, IoT (MQTT), Mobile Apps (iOS, Android), Game Design.
 - 📫 LinkedIn: http://LinkedIn.com/in/VakinduPhilliam
-- 📫 LinkedIn: http://Medium.com/@VakinduPhilliam
-- 📫 LinkedIn: http://Twitter.com/VakinduPhilliam
+- 📫 Medium:   http://Medium.com/@VakinduPhilliam
+- 📫 Twitter:  http://Twitter.com/VakinduPhilliam
 
