@@ -6,7 +6,7 @@ console.log(`Greetings from ${name}! (ʘ‿ʘ)`);
 
 ### Println:
 
-- 🔭 10+
+- 🔭 10+X
 - 🌱 Flutter/Dart, Akka (Scala/Java), Python/Django, PHP, Go (GoLang), Hadoop.
 - 👯 Blockchain, IoT (MQTT), Mobile Apps (iOS, Android), Game Design.
 - 📫 LinkedIn: http://LinkedIn.com/in/VakinduPhilliam
