@@ -6,7 +6,7 @@ console.log(`Greetings from ${name}! (ʘ‿ʘ)`);
 
 ### Println:
 
-- 🔭 Fullstack (Backend/Frontend) 10+X
+- 🔭 Hadoop Developer, Fullstack (Backend/Frontend) 10+X
 - 🌱 Akka (Scala/Java), Python/Django, PHP, Go (GoLang), Hadoop, Kotlin, Flutter/Dart, Cassandra, Play, Zookeeper, Kafka.
 - 👯 Blockchain, IoT (MQTT), Mobile Apps (iOS, Android), Game Design, Data Science.
 - 📫 LinkedIn: http://LinkedIn.com/in/VakinduPhilliam
