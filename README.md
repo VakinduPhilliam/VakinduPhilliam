@@ -13,6 +13,6 @@ console.log(`Greetings from ${name}! (ʘ‿ʘ)`);
 - 📫 Medium:   http://Medium.com/@VakinduPhilliam
 - 📫 Twitter:  http://Twitter.com/VakinduPhilliam
 
-<a href="https://github.com/VakinduPhilliam/github-readme-stats">
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VakinduPhilliam&langs_count=8)](https://github.com/VakinduPhilliam/github-readme-stats)
-</a>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VakinduPhilliam&langs_count=8)](https://github.com/VakinduPhilliam/github-readme-stats)
+
