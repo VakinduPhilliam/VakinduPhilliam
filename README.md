@@ -8,7 +8,7 @@ console.log(`Greetings from ${name}! (ʘ‿ʘ)`);
 
 - 🔭 Hadoop Developer, Fullstack (Backend/Frontend) 10+X
 - 🌱 Akka (Scala/Java), Python/Django, PHP, Go (GoLang), Hadoop, Kotlin, Flutter/Dart, Cassandra, Play, Redis, Bull, Zookeeper, Kafka, Elasticsearch, Apache Spark, Git Version Control, MongoDB.
-- 👯 Blockchain, IoT (MQTT), Mobile Apps (iOS, Android), Game Design, Data Science, Sharding.
+- 👯 Blockchain, IoT (MQTT), Mobile Apps (iOS, Android), Game Design, Data Science, Dataset Sharding.
 - 📫 LinkedIn: http://LinkedIn.com/in/VakinduPhilliam
 - 📫 Medium:   http://Medium.com/@VakinduPhilliam
 - 📫 Twitter:  http://Twitter.com/VakinduPhilliam
