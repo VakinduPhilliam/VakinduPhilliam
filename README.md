@@ -4,7 +4,7 @@ const name = 'Vakindu Philliam';
 
 console.log(`Greetings from ${name}! (ʘ‿ʘ)`);
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vakinduphilliam)](https://github.com/vakinduphilliam/github-readme-stats)
 
 ### Println:
 
