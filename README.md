@@ -4,6 +4,8 @@ const name = 'Vakindu Philliam';
 
 console.log(`Greetings from ${name}! (ʘ‿ʘ)`);
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+
 ### Println:
 
 - 🔭 Scala/Hadoop Developer, Serverless Cloud Infrastructure, Fullstack (Backend/Frontend) 10+X
