@@ -11,4 +11,4 @@ console.log(`Greetings from ${name}! (ʘ‿ʘ)`);
 - ✔️ Blockchain, Web3, IoT (MQTT), Mobile Apps (iOS, Android), Data Science, YOLOv3, COCO Dataset, Dataset Sharding, Pytorch, Pytesseract, Tesseract, EasyOCR, Tensorflow, Keras.
 - 👉 LinkedIn: http://LinkedIn.com/in/VakinduPhilliam
 - 👉 Twitter:  http://Twitter.com/VakinduPhilliam
-
+- 👉 Email:  pvakindu@gmail.com
