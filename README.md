@@ -8,7 +8,7 @@ console.log(`Greetings from ${name}! (😎)`);
 
 ### ✔️ Tasks:
 
-Backend Engineer, iOS/Android Developer, Web Developer, Data Science/AI, Scala/Node.JS Developer, Serverless Cloud Infrastructure, Fullstack, Machine Learning, Computer Vision.
+Backend Engineer, iOS/Android Developer, Web Developer, Data Science/AI, Scala/Node.JS Developer, Serverless Cloud Infrastructure, Fullstack, Machine Learning, Computer Vision, Real-time data pipelines, Data streaming applications.
 
 ### ✔️ Backend technologies:
 
