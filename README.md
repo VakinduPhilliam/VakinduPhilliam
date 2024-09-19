@@ -12,7 +12,7 @@ Backend Engineer, iOS/Android Developer, Web Developer, Data Science/AI, Scala/N
 
 ### ✔️ Backend technologies:
 
-Python/Django/Flask, Akka (Scala/Java), PHP, Flutter/Dart, Play, Redis, Bull, Amazon DynamoDB, Serverless Framework, Zookeeper, AWS SAM, SBT, AWS Lambda, Prisma, NestJS, TypeScript, Google Cloud (GCP), Numpy, Pandas, API Gateway, Git Version Control, Git Actions and Workflows, OpenCV, Next.JS, IPFS, MongoDB, Giter8, GraphQL, AWS Data Exchange, AWS S3, MongoDB Atlas, MatPlotLib, SKLearn (Scikit-Learn), ARCore, Kotlin, Redhat Openshift, Docker, Terraform, ProtoBuf, Apache Kafka.
+Python/Django/Flask, Akka (Scala/Java), PHP, Flutter/Dart, Play, Redis, Bull, Amazon DynamoDB, Serverless Framework, Zookeeper, AWS SAM, SBT, AWS Lambda, Prisma, NestJS, TypeScript, Google Cloud (GCP), Numpy, Pandas, API Gateway, Git Version Control, Git Actions and Workflows, OpenCV, Next.JS, IPFS, MongoDB, Giter8, GraphQL, AWS Data Exchange, AWS S3, MongoDB Atlas, MatPlotLib, SKLearn (Scikit-Learn), ARCore, Kotlin, Redhat Openshift, Docker, Terraform, ProtoBuf, Cask, Apache Kafka.
 
 ### ✔️ Data Science/AI/Web3 technologies:
 
